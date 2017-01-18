@@ -14,7 +14,7 @@ public class WaddlerAI : MonoBehaviour {
     public Transform sightEnd;
 
     public bool isColliding;
-
+    //Snakes on a mothafuckin plane!!!!
     Rigidbody2D waddlerBody;
 
     //I am a final change
