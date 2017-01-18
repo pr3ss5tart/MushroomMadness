@@ -15,7 +15,7 @@ public class WaddlerAI : MonoBehaviour {
     public Transform sightEnd;
 
     public bool isColliding;
-
+    //jknkmkmkmkm
     Rigidbody2D waddlerBody;
 
 	// Use this for initialization
