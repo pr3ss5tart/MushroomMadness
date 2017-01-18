@@ -9,14 +9,18 @@ public class WaddlerAI : MonoBehaviour {
 
     //I am a conflicting change with the MainDevelop branch
 
-    //I am another conflict
-
     public Transform sightStart;
     public Transform sightEnd;
 
     public bool isColliding;
+
+
+    //Herp derp!
     //jknkmkmkmkm
+
     Rigidbody2D waddlerBody;
+
+    //I am a final change
 
 	// Use this for initialization
 	void Start () {
