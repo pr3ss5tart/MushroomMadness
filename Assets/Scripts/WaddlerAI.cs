@@ -3,7 +3,12 @@ using System.Collections;
 
 public class WaddlerAI : MonoBehaviour {
 
+    //I am a change. I need to be committed and pushed to the dev branch.
+
     public float velocity;
+
+    //I am a conflicting change with the MainDevelop branch
+
 
     public Transform sightStart;
     public Transform sightEnd;
@@ -13,6 +18,8 @@ public class WaddlerAI : MonoBehaviour {
 
     //Herp derp!
     Rigidbody2D waddlerBody;
+
+    //I am a final change
 
 	// Use this for initialization
 	void Start () {
