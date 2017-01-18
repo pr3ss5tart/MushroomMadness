@@ -9,7 +9,6 @@ public class WaddlerAI : MonoBehaviour {
 
     //I am a conflicting change with the MainDevelop branch
 
-
     public Transform sightStart;
     public Transform sightEnd;
 
