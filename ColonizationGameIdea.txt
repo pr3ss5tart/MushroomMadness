@@ -1,0 +1,21 @@
+Mushroom Madness!!!!
+
+High Concept: This is a 2D platformer with 3D environments. You play as a mushroom. The only goal for you is to plant one of your spores
+in end area. You must get around the different obstacles, and beat a boss at the end of each level. The player can also plant mushrooms
+as checkpoints, thus allowing player to restart at checkpoint. There are 3 level. Have fun!
+
+Art: This will either be hand-drawn with modifications in photoshop, or pixel art.
+
+Coding: I will be using the starting player controller for prototyping, as well as standard camera controlls. However I plan to write the
+other scripts myself.
+
+Mechanics I want:
+
+	-Basic movement
+	-Player bash attack
+	X-Falling branches 
+	-Player health
+	-Boss ai
+	-Spikes
+	X-Checkpoints
+	-More to come...

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniLD69_Colonization.CSharp.Plugins", "MiniLD69_Colonization.CSharp.Plugins.csproj", "{C8E5FD8E-9D30-B654-F633-E69AC2BCB7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniLD69_Colonization.CSharp", "MiniLD69_Colonization.CSharp.csproj", "{669664EB-9A4B-50BE-05F0-AD74C290B497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniLD69_Colonization.CSharp.Editor", "MiniLD69_Colonization.CSharp.Editor.csproj", "{5D96AF7D-4F84-FCD7-F18F-8FAB6059C248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E5FD8E-9D30-B654-F633-E69AC2BCB7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E5FD8E-9D30-B654-F633-E69AC2BCB7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E5FD8E-9D30-B654-F633-E69AC2BCB7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E5FD8E-9D30-B654-F633-E69AC2BCB7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669664EB-9A4B-50BE-05F0-AD74C290B497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669664EB-9A4B-50BE-05F0-AD74C290B497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669664EB-9A4B-50BE-05F0-AD74C290B497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669664EB-9A4B-50BE-05F0-AD74C290B497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D96AF7D-4F84-FCD7-F18F-8FAB6059C248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D96AF7D-4F84-FCD7-F18F-8FAB6059C248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D96AF7D-4F84-FCD7-F18F-8FAB6059C248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D96AF7D-4F84-FCD7-F18F-8FAB6059C248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
