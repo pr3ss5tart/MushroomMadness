@@ -10,6 +10,8 @@ public class WaddlerAI : MonoBehaviour {
 
     public bool isColliding;
 
+
+    //Herp derp!
     Rigidbody2D waddlerBody;
 
 	// Use this for initialization
