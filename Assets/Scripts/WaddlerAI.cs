@@ -16,6 +16,8 @@ public class WaddlerAI : MonoBehaviour {
 
 
     //Herp derp!
+    //jknkmkmkmkm
+
     Rigidbody2D waddlerBody;
 
     //I am a final change
